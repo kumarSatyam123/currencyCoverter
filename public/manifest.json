@@ -1,0 +1,8 @@
+{
+  "short_name": "DonateKart_Interview",
+  "name": "DonateKart_Interview",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
