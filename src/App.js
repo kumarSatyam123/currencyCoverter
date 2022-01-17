@@ -80,7 +80,7 @@ function App() {
                 </Grid>
               )
             })
-          ) : console.log(prods)
+          ) : <h3>Loading...</h3>
         }
 
       </Grid>
